@@ -9,13 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.9",
+    "@prisma/client": "^6.19.2",
     "@tensorflow-models/coco-ssd": "^2.2.3",
     "@tensorflow/tfjs": "^4.17.0",
+    "bcryptjs": "^3.0.3",
+    "clsx": "^2.1.1",
     "lodash": "^4.17.21",
+    "lucide-react": "^0.576.0",
     "next": "14.1.3",
+    "next-auth": "^4.24.13",
+    "prisma": "^6.19.2",
     "react": "^18",
     "react-dom": "^18",
-    "react-webcam": "^7.2.0"
+    "react-webcam": "^7.2.0",
+    "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
